@@ -1,0 +1,22 @@
+.BodyMain {
+    width: 100%;
+    display: flex;
+}
+
+.BodyMainTitre {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.BodyMainPic {
+    width: 40%;
+
+}
+
+.BodyMainPic img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+}

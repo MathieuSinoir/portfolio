@@ -1,0 +1,32 @@
+.NavebarHome {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+.NameHome {
+    width: 20%;
+    font-size: 2em;
+    color: hsl(hue, saturation, lightness);
+
+
+}
+
+
+.ButtonHome {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 30px;
+}
+
+.ButtonHome>a {
+    text-decoration: none;
+    color: aqua;
+
+
+
+}
