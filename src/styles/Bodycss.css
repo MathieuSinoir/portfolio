@@ -21,7 +21,16 @@
     border-radius: 30px;
 }
 
+.ContainerSocialProfil {
+    width: 90%;
+}
+
 .ContainerSocialProfil img {
     max-width: 5%;
+
+}
+
+.ContainerSocialProfil a {
+    padding: 1%;
 
 }
