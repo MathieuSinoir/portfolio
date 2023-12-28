@@ -27,19 +27,19 @@
 
 .ButtonHome>a {
     text-decoration: none;
-    color: aqua;
+    color: rgb(255, 255, 255);
     position: relative;
     font-weight: 600;
     text-decoration: none;
 }
 
-a:before {
+.ButtonHome>a:before {
     content: '';
     position: absolute;
     bottom: -2px;
     height: 6px;
     width: 0;
-    background-color: #AC81DC;
+    background-color: #dd6d17;
     border-radius: 50px;
     transition: width 0.3s ease;
 }
