@@ -22,12 +22,28 @@
     border-style: solid;
     border-color: aliceblue;
     border-radius: 30px;
+    padding: 0.7%;
 }
 
 .ButtonHome>a {
     text-decoration: none;
     color: aqua;
+    position: relative;
+    font-weight: 600;
+    text-decoration: none;
+}
 
+a:before {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    height: 6px;
+    width: 0;
+    background-color: #AC81DC;
+    border-radius: 50px;
+    transition: width 0.3s ease;
+}
 
-
+a:hover::before {
+    width: 100%;
 }

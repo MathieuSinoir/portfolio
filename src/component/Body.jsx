@@ -8,7 +8,8 @@ function Body() {
                     <section className='BodyTitre'>
                         <h1>LET ME INTRODUCE MYSELF</h1>
                         <h1>I'M JUNIOR WEB DEVELOPEUR</h1>
-                        <h1>You can check my profil </h1>
+                        <p></p>
+                        <h1>You can check my profils </h1>
 
                         <div className='ContainerSocialProfil'>
                             <a href='https://github.com/MathieuSinoir'>
