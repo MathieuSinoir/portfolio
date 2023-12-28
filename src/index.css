@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background: linear-gradient(to bottom right, blue, pink);
+  background: linear-gradient(to bottom right, #020024, #da7f1e);
   background-size: contain;
   background-repeat: no-repeat;
 
