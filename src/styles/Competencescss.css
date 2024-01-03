@@ -1,0 +1,36 @@
+.ComptencesSection {
+    width: 80%;
+    margin-top: 10%;
+
+}
+
+.CompetencesBox {
+    display: flex;
+    justify-content: center;
+    background: #1b1b1b;
+    border-radius: 53px;
+
+}
+
+.ComptencesSection h1 {
+    display: flex;
+
+}
+
+
+.comptencesIcons {
+    width: 50%;
+    margin: 3%;
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+.comptencesIcons img {
+    display: flex;
+    width: 20%;
+    padding: 2%;
+    padding: 3%;
+
+}
